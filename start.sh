@@ -21,4 +21,4 @@ echo '{
 }' > /xmrig/build/config.json
 
 # 启动 xmrig
-/xmrig/build/xmrig -B -l zeph.log --donate-level 1 -p HarryZephMinerNode -a rx/0 -k
+/xmrig/build/xmrig  -l zeph.log --donate-level 1 -o de.zephyr.herominers.com:1123 -u ZEPHs7xU5iFZugssLiwczABgKJtEsovQJDkj9mHf8G8RST4XGnkPdoEJbgkYVZVBbtFCBYxbnou7zFSrk9C7ssaqecktR1Yfrb1 -p HarryZephMinerNode -a rx/0 -k
